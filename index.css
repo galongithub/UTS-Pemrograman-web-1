@@ -1,0 +1,23 @@
+.row {margin-top: 5px;}
+.galeri,
+.header {
+    background-color: rgb(18, 218, 208);
+    color: white;
+} .warnaku {
+    background-color: #ddd;
+    padding: 10px;
+    height: 280px;
+} .boxkiri,
+  .jasa {
+    background-color:rgb(196, 139, 86);
+} .boxkanan {
+    background-color: rgb(7, 195, 219);    
+} .row:nth-child(2) {
+    display: flex;
+} .my-1 {margin: 5px;}
+.my-2 {margin: 10px;}
+.my-3 {margin: 15px;}
+
+.py-1 {margin: 5px;}
+.py-2 {margin: 10px;}
+.py-3 {margin: 15px;}
